@@ -1,5 +1,5 @@
 # Data_Analysis
-This repository contains the **R code** for an exercise of the *Data Analysis* course at **Athens University of Economics and Business (AUEB)**.
+This repository contains the **R code** for an exercise of the *Data Analysis* course at my university.
 
 The code focuses on analyzing the relationship between house prices and the number of bathrooms using:
 - Correlation analysis
